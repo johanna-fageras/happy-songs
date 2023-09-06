@@ -1,0 +1,89 @@
+@font-face {
+  font-family: 'Baton Rouge';
+  src: url('../fonts/baton-rouge/BatonRouge-Light.woff2') format('woff2'),
+       url('../fonts/baton-rouge/BatonRouge-Light.woff') format('woff'),
+       url('../fonts/baton-rouge/BatonRouge-Light.ttf') format('truetype');
+  font-weight: 300;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Baton Rouge';
+  src: url('../fonts/baton-rouge/BatonRouge-LightItalic.woff2') format('woff2'),
+       url('../fonts/baton-rouge/BatonRouge-LightItalic.woff') format('woff'),
+       url('../fonts/baton-rouge/BatonRouge-LightItalic.ttf') format('truetype');
+  font-weight: 300;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Baton Rouge';
+  src: url('../fonts/baton-rouge/BatonRouge-Regular.woff2') format('woff2'),
+       url('../fonts/baton-rouge/BatonRouge-Regular.woff') format('woff'),
+       url('../fonts/baton-rouge/BatonRouge-Regular.ttf') format('truetype');
+  font-weight: 400;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Baton Rouge';
+  src: url('../fonts/baton-rouge/BatonRouge-Italic.woff2') format('woff2'),
+       url('../fonts/baton-rouge/BatonRouge-Italic.woff') format('woff'),
+       url('../fonts/baton-rouge/BatonRouge-Italic.ttf') format('truetype');
+  font-weight: 400;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Baton Rouge';
+  src: url('../fonts/baton-rouge/BatonRouge-Medium.woff2') format('woff2'),
+       url('../fonts/baton-rouge/BatonRouge-Medium.woff') format('woff'),
+       url('../fonts/baton-rouge/BatonRouge-Medium.ttf') format('truetype');
+  font-weight: 500;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Baton Rouge';
+  src: url('../fonts/baton-rouge/BatonRouge-MediumItalic.woff2') format('woff2'),
+       url('../fonts/baton-rouge/BatonRouge-MediumItalic.woff') format('woff'),
+       url('../fonts/baton-rouge/BatonRouge-MediumItalic.ttf') format('truetype');
+  font-weight: 500;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Baton Rouge';
+  src: url('../fonts/baton-rouge/BatonRouge-Bold.woff2') format('woff2'),
+       url('../fonts/baton-rouge/BatonRouge-Bold.woff') format('woff'),
+       url('../fonts/baton-rouge/BatonRouge-Bold.ttf') format('truetype');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Baton Rouge';
+  src: url('../fonts/baton-rouge/BatonRouge-BoldItalic.woff2') format('woff2'),
+       url('../fonts/baton-rouge/BatonRouge-BoldItalic.woff') format('woff'),
+       url('../fonts/baton-rouge/BatonRouge-BoldItalic.ttf') format('truetype');
+  font-weight: 700;
+  font-style: italic;
+}
+
+@font-face {
+  font-family: 'Baton Rouge';
+  src: url('../fonts/baton-rouge/BatonRouge-Black.woff2') format('woff2'),
+       url('../fonts/baton-rouge/BatonRouge-Black.woff') format('woff'),
+       url('../fonts/baton-rouge/BatonRouge-Black.ttf') format('truetype');
+  font-weight: 900;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'Baton Rouge';
+  src: url('../fonts/baton-rouge/BatonRouge-BlackItalic.woff2') format('woff2'),
+       url('../fonts/baton-rouge/BatonRouge-BlackItalic.woff') format('woff'),
+       url('../fonts/baton-rouge/BatonRouge-BlackItalic.ttf') format('truetype');
+  font-weight: 900;
+  font-style: italic;
+}
