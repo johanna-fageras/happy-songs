@@ -372,6 +372,18 @@ let track_list = [
     image: "imgs/TheHighwaymen-BigRiver.jpeg",
     path: "audio/TheHighwaymen-BigRiver.mp4",
   },
+  {
+    name: "Games People Play",
+    artist: "Lissie",
+    image: "imgs/Lissie-GamesPeoplePlay.jpeg",
+    path: "audio/Lissie-GamesPeoplePlay.mp4",
+  },
+  {
+    name: "Those Were The Days",
+    artist: "Dolly Parton",
+    image: "imgs/DollyParton-ThoseWereTheDays.jpeg",
+    path: "audio/DollyParton-ThoseWereTheDays.mp4",
+  },
 ];
 
 function loadTrack(track_index) {
